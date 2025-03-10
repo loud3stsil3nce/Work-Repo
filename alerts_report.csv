@@ -1,0 +1,178 @@
+id,outage_id,location,monitoring_server,ipv4,alert_time,output
+201313704,202522452,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-30,23.227.177.154,2025-02-27T16:12:52.393264Z,"HTTP CRITICAL: HTTP/2 500  - 901 bytes in 11.106 second response time
+
+time=11.106432s;;;0.000000;40.000000 size=901B;;;0;"
+201313753,202522452,Austria-Vienna,AT-Vienna(Interxion)-4,94.198.41.230,2025-02-27T16:13:04.518660Z,"HTTP CRITICAL: HTTP/2 500  - 895 bytes in 11.124 second response time
+
+time=11.124359s;;;0.000000;40.000000 size=895B;;;0;"
+201313909,202522452,US-NY-New York,US-New York(DigitalRealty)-20,198.178.224.9,2025-02-27T16:15:00.356401Z,"HTTP CRITICAL: HTTP/2 500  - 897 bytes in 19.657 second response time
+
+time=19.657389s;;;0.000000;40.000000 size=897B;;;0;"
+201314531,202523368,US-NY-New York,US-New York(DigitalRealty)-20,198.178.224.9,2025-02-27T16:27:32.152166Z,"HTTP CRITICAL: HTTP/2 500  - 898 bytes in 11.371 second response time
+
+time=11.371293s;;;0.000000;40.000000 size=898B;;;0;"
+201314669,202523368,Austria-Vienna,AT-Vienna(Interxion)-4,94.198.41.230,2025-02-27T16:30:16.974392Z,"HTTP CRITICAL: HTTP/2 500  - 900 bytes in 10.464 second response time
+
+time=10.463945s;;;0.000000;40.000000 size=900B;;;0;"
+201388412,202597310,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-02-28T00:55:38.448738Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Operation timed out after 40001 milliseconds with 0 bytes received
+201388525,202597310,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-02-28T00:58:43.375914Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Operation timed out after 40001 milliseconds with 0 bytes received
+201423680,202632691,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-02-28T13:54:09.184009Z,"PING CRITICAL - Packet loss = 80%, RTA = 0.35 ms
+
+rta=0.347000ms;600.000000;1200.000000;0.000000 pl=80%;30;60;0"
+201423697,202632595,Austria-Vienna,AT-Vienna(Interxion)-5,37.120.212.158,2025-02-28T13:54:51.353446Z,"PING CRITICAL - Packet loss = 80%, RTA = 99.91 ms
+
+rta=99.908997ms;600.000000;1200.000000;0.000000 pl=80%;30;60;0"
+201423762,202632595,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-02-28T13:56:58.730588Z,"PING WARNING - Packet loss = 40%, RTA = 0.28 ms
+
+rta=0.281000ms;600.000000;1200.000000;0.000000 pl=40%;30;60;0"
+201423858,202632691,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-02-28T13:59:53.030507Z,"PING CRITICAL - Packet loss = 100%
+
+rta=1200.000000ms;600.000000;1200.000000;0.000000 pl=100%;30;60;0"
+201424209,202632595,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-02-28T14:10:30.565557Z,"PING CRITICAL - Packet loss = 60%, RTA = 77.63 ms
+
+rta=77.625999ms;600.000000;1200.000000;0.000000 pl=60%;30;60;0"
+201425369,202632691,Austria-Vienna,AT-Vienna(Interxion)-5,37.120.212.158,2025-02-28T14:26:08.330420Z,"PING CRITICAL - Packet loss = 60%, RTA = 105.61 ms
+
+rta=105.608002ms;600.000000;1200.000000;0.000000 pl=60%;30;60;0"
+201445064,202654315,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-02-28T22:09:34.279086Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Operation timed out after 40002 milliseconds with 0 bytes received
+201445120,202654315,United Kingdom-London,GB-London(Volta)-16,5.180.211.98,2025-02-28T22:10:23.940319Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Operation timed out after 40001 milliseconds with 0 bytes received
+201564871,202774267,US-NY-New York,US-New York(DigitalRealty)-20,198.178.224.9,2025-03-02T22:06:12.315363Z,"HTTP CRITICAL: HTTP/2 500  - 898 bytes in 10.544 second response time
+
+time=10.544243s;;;0.000000;40.000000 size=898B;;;0;"
+201564912,202774267,Austria-Vienna,AT-Vienna(Interxion)-4,94.198.41.230,2025-03-02T22:06:36.056639Z,"HTTP CRITICAL: HTTP/2 500  - 901 bytes in 10.547 second response time
+
+time=10.547325s;;;0.000000;40.000000 size=901B;;;0;"
+201564954,202774267,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-03-02T22:07:04.235972Z,"HTTP CRITICAL: HTTP/2 500  - 900 bytes in 13.911 second response time
+
+time=13.911247s;;;0.000000;40.000000 size=900B;;;0;"
+201568383,202777857,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-02T23:30:02.229601Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201568399,202777782,United Kingdom-London,GB-London(Volta)-14,5.180.211.92,2025-03-02T23:30:12.528388Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201568406,202777803,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-02T23:30:20.153854Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 615 bytes in 15.003 second response time
+
+time=15.003488s;;;0.000000;40.000000 size=615B;;;0;"
+201568424,202777782,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-02T23:30:30.189974Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201568439,202777782,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-32,94.100.20.50,2025-03-02T23:30:36.955185Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201568444,202777803,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-02T23:30:40.870216Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 615 bytes in 15.027 second response time
+
+time=15.026853s;;;0.000000;40.000000 size=615B;;;0;"
+201568448,202777869,US-NY-New York,US-New York(DigitalRealty)-21,185.209.179.215,2025-03-02T23:30:43.515581Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30002 ms: Connection timed out
+201568451,202777803,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-30,23.227.177.154,2025-03-02T23:30:47.518080Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 615 bytes in 14.996 second response time
+
+time=14.995702s;;;0.000000;40.000000 size=615B;;;0;"
+201568456,202777782,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-02T23:30:50.814424Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201568498,202777857,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-02T23:31:25.212240Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201568510,202777869,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-03-02T23:31:34.165325Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30003 ms: Connection timed out
+201568519,202777782,Austria-Vienna,AT-Vienna(Interxion)-4,94.198.41.230,2025-03-02T23:31:36.738472Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201568536,202777857,US-TX-Dallas,US-Dallas(Equinix)-24,2.56.188.143,2025-03-02T23:31:48.586261Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201568548,202777803,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-02T23:31:57.472322Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 615 bytes in 15.049 second response time
+
+time=15.048565s;;;0.000000;40.000000 size=615B;;;0;"
+201568587,202777869,Austria-Vienna,AT-Vienna(Interxion)-5,37.120.212.158,2025-03-02T23:32:14.201096Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30002 ms: Connection timed out
+201568615,202777803,US-NY-New York,US-New York(DigitalRealty)-25,69.67.151.230,2025-03-02T23:32:29.514671Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 613 bytes in 14.966 second response time
+
+time=14.965698s;;;0.000000;40.000000 size=613B;;;0;"
+201568647,202777857,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-02T23:32:42.688986Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201568897,202777869,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-32,94.100.20.50,2025-03-02T23:33:48.809069Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30002 ms: Connection timed out
+201568967,202777857,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-02T23:34:08.583064Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201568977,202777869,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-02T23:34:11.571033Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30002 ms: Connection timed out
+201574092,202783466,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-03T01:03:19.895904Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 614 bytes in 15.041 second response time
+
+time=15.040766s;;;0.000000;40.000000 size=614B;;;0;"
+201574097,202783466,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-30,23.227.177.154,2025-03-03T01:03:32.906279Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 615 bytes in 14.980 second response time
+
+time=14.979816s;;;0.000000;40.000000 size=615B;;;0;"
+201574099,202783466,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-03T01:03:35.725627Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 615 bytes in 15.068 second response time
+
+time=15.067701s;;;0.000000;40.000000 size=615B;;;0;"
+201574114,202783529,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-03T01:04:05.213980Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201574119,202783523,US-NY-New York,US-New York(DigitalRealty)-21,185.209.179.215,2025-03-03T01:04:12.495140Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30002 ms: Connection timed out
+201574137,202783466,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-03T01:04:37.437358Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 616 bytes in 15.396 second response time
+
+time=15.395820s;;;0.000000;40.000000 size=616B;;;0;"
+201574151,202783547,United Kingdom-London,GB-London(Volta)-14,5.180.211.92,2025-03-03T01:04:56.853011Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201574154,202783523,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-03-03T01:04:59.912361Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30003 ms: Connection timed out
+201574159,202783466,US-NY-New York,US-New York(DigitalRealty)-25,69.67.151.230,2025-03-03T01:05:08.876378Z,"HTTP CRITICAL: HTTP/1.1 503 Service Unavailable - 615 bytes in 15.018 second response time
+
+time=15.018123s;;;0.000000;40.000000 size=615B;;;0;"
+201574160,202783529,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-03T01:05:09.317307Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201574168,202783529,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-03T01:05:22.984803Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201574178,202783547,Austria-Vienna,AT-Vienna(Interxion)-4,94.198.41.230,2025-03-03T01:05:37.283106Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201574182,202783523,Austria-Vienna,AT-Vienna(Interxion)-5,37.120.212.158,2025-03-03T01:05:41.085186Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30002 ms: Connection timed out
+201574200,202783529,US-TX-Dallas,US-Dallas(Equinix)-24,2.56.188.143,2025-03-03T01:05:52.972172Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+201574253,202783523,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-32,94.100.20.50,2025-03-03T01:06:29.446185Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30001 ms: Connection timed out
+201574294,202783547,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-32,94.100.20.50,2025-03-03T01:06:54.065333Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201574330,202783529,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-03T01:07:09.558305Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40009 milliseconds
+201574414,202783523,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-03T01:08:00.577272Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Failed to connect to images.nypl.org port 443 after 30001 ms: Connection timed out
+201574443,202783547,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-03T01:08:12.498511Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201574462,202783547,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-03T01:08:23.572440Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+201619738,202829352,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-03T19:30:19.645534Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL: no alternative certificate subject name matches target host name api.repo.nypl.org
+201619740,202829299,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-03T19:30:21.941550Z,"HTTP CRITICAL: HTTP/1.1 500 Server Error - 347 bytes in 0.242 second response time
+
+time=0.241509s;;;0.000000;40.000000 size=347B;;;0;"
+201619741,202829299,Austria-Vienna,AT-Vienna(Interxion)-4,94.198.41.230,2025-03-03T19:30:23.073476Z,"HTTP CRITICAL: HTTP/1.1 500 Server Error - 353 bytes in 0.483 second response time
+
+time=0.483338s;;;0.000000;40.000000 size=353B;;;0;"
+201619748,202829299,United Kingdom-London,GB-London(Volta)-14,5.180.211.92,2025-03-03T19:30:31.999571Z,"HTTP CRITICAL: HTTP/1.1 500 Server Error - 353 bytes in 0.516 second response time
+
+time=0.516077s;;;0.000000;40.000000 size=353B;;;0;"
+201619763,202829333,Austria-Vienna,AT-Vienna(Interxion)-4,94.198.41.230,2025-03-03T19:31:00.475186Z,"HTTP CRITICAL: HTTP/2 500  - 901 bytes in 0.573 second response time
+
+time=0.573197s;;;0.000000;40.000000 size=901B;;;0;"
+201619775,202829333,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-03-03T19:31:14.038731Z,"HTTP CRITICAL: HTTP/2 500  - 899 bytes in 0.564 second response time
+
+time=0.564104s;;;0.000000;40.000000 size=899B;;;0;"
+201619794,202829352,United Kingdom-London,GB-London(Volta)-16,5.180.211.98,2025-03-03T19:31:42.311418Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL: no alternative certificate subject name matches target host name api.repo.nypl.org
+201619807,202829299,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-03T19:31:59.067655Z,"HTTP CRITICAL: HTTP/1.1 500 Server Error - 353 bytes in 0.221 second response time
+
+time=0.221278s;;;0.000000;40.000000 size=353B;;;0;"
+201619865,202829299,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-32,94.100.20.50,2025-03-03T19:33:12.397588Z,"HTTP CRITICAL: HTTP/1.1 500 Server Error - 353 bytes in 0.381 second response time
+
+time=0.381010s;;;0.000000;40.000000 size=353B;;;0;"
+201619889,202829352,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-03T19:33:40.697383Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL: no alternative certificate subject name matches target host name api.repo.nypl.org
+201662091,202871835,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-03-04T10:55:22.301327Z,"HTTP CRITICAL: HTTP/2 500  - 898 bytes in 10.757 second response time
+
+time=10.756948s;;;0.000000;40.000000 size=898B;;;0;"
+201662153,202871835,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-04T10:57:44.093396Z,"HTTP CRITICAL: HTTP/2 500  - 903 bytes in 10.564 second response time
+
+time=10.563716s;;;0.000000;40.000000 size=903B;;;0;"
+201824424,203035487,Austria-Vienna,AT-Vienna(Interxion)-5,37.120.212.158,2025-03-06T08:39:23.923637Z,"PING CRITICAL - Packet loss = 60%, RTA = 105.51 ms
+
+rta=105.511002ms;600.000000;1200.000000;0.000000 pl=60%;30;60;0"
+201824806,203035487,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-06T08:51:11.197173Z,"PING CRITICAL - Packet loss = 100%
+
+rta=1200.000000ms;600.000000;1200.000000;0.000000 pl=100%;30;60;0"
+201825005,203035696,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-03-06T08:57:04.257294Z,"PING CRITICAL - Packet loss = 80%, RTA = 75.18 ms
+
+rta=75.181999ms;600.000000;1200.000000;0.000000 pl=80%;30;60;0"
+201825014,203035696,Austria-Vienna,AT-Vienna(Interxion)-5,37.120.212.158,2025-03-06T08:57:12.184772Z,"PING CRITICAL - Packet loss = 100%
+
+rta=1200.000000ms;600.000000;1200.000000;0.000000 pl=100%;30;60;0"
+201825076,203035696,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-06T08:59:45.660964Z,"PING CRITICAL - Packet loss = 100%
+
+rta=1200.000000ms;600.000000;1200.000000;0.000000 pl=100%;30;60;0"
+201825174,203035487,United Kingdom-London,GB-London(Volta)-13,5.180.211.91,2025-03-06T09:02:10.725288Z,"PING CRITICAL - Packet loss = 100%
+
+rta=1200.000000ms;600.000000;1200.000000;0.000000 pl=100%;30;60;0"
+201825372,203035487,US-NY-New York,US-New York(DigitalRealty)-19,198.178.224.231,2025-03-06T09:06:47.196919Z,"PING CRITICAL - Packet loss = 60%, RTA = 18.42 ms
+
+rta=18.417000ms;600.000000;1200.000000;0.000000 pl=60%;30;60;0"
+202051878,203263245,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-30,23.227.177.154,2025-03-09T04:34:05.093982Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+202051881,203263075,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-09T04:34:05.948563Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+202051892,203263075,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-09T04:34:20.292499Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+202051925,203263075,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-30,23.227.177.154,2025-03-09T04:34:43.916361Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+202051944,203263075,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-09T04:35:12.433036Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+202052062,203263245,US-TX-Dallas,US-Dallas(Equinix)-22,2.56.188.159,2025-03-09T04:37:07.292777Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+202052102,203263245,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-09T04:37:40.915949Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+202052105,203263245,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-09T04:37:44.376854Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+202052106,203263245,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-09T04:37:45.487825Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40001 milliseconds
+202052113,203263075,US-TX-Dallas,US-Dallas(Equinix)-24,2.56.188.143,2025-03-09T04:37:51.763857Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 28 - Connection timed out after 40000 milliseconds
+202103746,203315073,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-09T19:20:50.481049Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL certificate problem: certificate has expired
+202103747,203314972,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-09T19:20:51.256422Z,HTTP CRITICAL - Invalid HTTP response received from host on port 80: cURL returned 60 - SSL certificate problem: certificate has expired
+202103753,203314972,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-09T19:20:54.248560Z,HTTP CRITICAL - Invalid HTTP response received from host on port 80: cURL returned 60 - SSL certificate problem: certificate has expired
+202103854,203315073,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-09T19:22:13.696602Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL certificate problem: certificate has expired
+202103994,203315073,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-09T19:23:18.939558Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL certificate problem: certificate has expired
+202104101,203315073,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-09T19:23:56.918047Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL certificate problem: certificate has expired
+202104107,203314972,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-09T19:24:00.819173Z,HTTP CRITICAL - Invalid HTTP response received from host on port 80: cURL returned 60 - SSL certificate problem: certificate has expired
+202104231,203315073,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-09T19:24:42.759105Z,HTTP CRITICAL - Invalid HTTP response received from host on port 443: cURL returned 60 - SSL certificate problem: certificate has expired
+202104234,203314972,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-09T19:24:45.503782Z,HTTP CRITICAL - Invalid HTTP response received from host on port 80: cURL returned 60 - SSL certificate problem: certificate has expired
+202104242,203314972,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-09T19:24:49.689591Z,HTTP CRITICAL - Invalid HTTP response received from host on port 80: cURL returned 60 - SSL certificate problem: certificate has expired
