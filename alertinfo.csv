@@ -1,197 +1,67 @@
-id,outage_id,location,monitoring_server,ipv4,alert_time,duration,output
-202512542,203724677,US-TX-Dallas,US-Dallas(Equinix)-24,2.56.188.143,2025-03-15T01:49:47.578033Z,295,"HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.220 second response time
-
-time=0.219711s;;;0.000000;40.000000 size=120B;;;0;"
-202512556,203724677,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-15T01:50:08.831164Z,295,"HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.074 second response time
-
-time=0.073877s;;;0.000000;40.000000 size=120B;;;0;"
-202514099,203726316,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-15T02:18:38.104013Z,474,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.357 second response time
-
-time=11.356613s;;;0.000000;40.000000 size=461B;;;0;"
-202514195,203726316,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-15T02:20:57.121924Z,474,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.408 second response time
-
-time=10.407980s;;;0.000000;40.000000 size=461B;;;0;"
-202517454,203729960,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-15T02:45:57.754608Z,2228,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.417 second response time
-
-time=10.417476s;;;0.000000;40.000000 size=506B;;;0;"
-202517839,203729960,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-15T02:49:56.030594Z,2228,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 11.166 second response time
-
-time=11.165857s;;;0.000000;40.000000 size=506B;;;0;"
-202519028,203729960,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-15T03:01:52.328084Z,2228,"HTTP CRITICAL - Invalid HTTP response received from host on port 80: cURL returned 56 - OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0"
-202528004,203740143,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-15T04:29:05.153621Z,1885,"HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.494 second response time
-
-time=0.493517s;;;0.000000;40.000000 size=120B;;;0;"
-202528023,203740143,US-TX-Dallas,US-Dallas(Equinix)-24,2.56.188.143,2025-03-15T04:29:11.695194Z,1885,"HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.344 second response time
-
-time=0.344144s;;;0.000000;40.000000 size=120B;;;0;"
-202528096,203740143,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-15T04:29:36.339295Z,1885,"HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.099 second response time
-
-time=0.098928s;;;0.000000;40.000000 size=120B;;;0;"
-202528153,203740143,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-15T04:29:53.293118Z,1885,"HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.366 second response time
-
-time=0.365826s;;;0.000000;40.000000 size=120B;;;0;"
-202528425,203740143,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-15T04:31:07.687914Z,1885,"HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.360 second response time
-
-time=0.360488s;;;0.000000;40.000000 size=120B;;;0;"
-202561199,203773369,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-15T17:21:54.295305Z,315,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.627 second response time
-
-time=10.627083s;;;0.000000;40.000000 size=461B;;;0;"
-202561211,203773369,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-15T17:22:06.777216Z,315,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.346 second response time
-
-time=10.346481s;;;0.000000;40.000000 size=461B;;;0;"
-202562647,203774921,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-15T18:20:20.023778Z,365,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.177 second response time
-
-time=11.177255s;;;0.000000;40.000000 size=461B;;;0;"
-202562759,203774921,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-15T18:23:44.045940Z,365,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.205 second response time
-
-time=10.204748s;;;0.000000;40.000000 size=461B;;;0;"
-202563079,203775689,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-15T18:36:29.255496Z,314,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.974 second response time
-
-time=10.973621s;;;0.000000;40.000000 size=461B;;;0;"
-202563520,203775689,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-15T18:54:53.110093Z,314,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.411 second response time
-
-time=10.411057s;;;0.000000;40.000000 size=461B;;;0;"
-202563749,203776023,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-15T19:02:06.356121Z,2186,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.163 second response time
-
-time=10.163235s;;;0.000000;40.000000 size=506B;;;0;"
-202563829,203776050,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-15T19:04:05.204653Z,1733,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.010 second response time
-
-time=11.010045s;;;0.000000;40.000000 size=461B;;;0;"
-202563854,203776023,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-15T19:04:53.358062Z,2186,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.509 second response time
-
-time=10.509040s;;;0.000000;40.000000 size=506B;;;0;"
-202563881,203776050,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-15T19:05:27.943583Z,1733,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.425 second response time
-
-time=10.424614s;;;0.000000;40.000000 size=461B;;;0;"
-202563903,203776050,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-15T19:05:47.547977Z,1733,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.383 second response time
-
-time=11.383458s;;;0.000000;40.000000 size=461B;;;0;"
-202563981,203776050,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-15T19:07:26.186450Z,1733,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.367 second response time
-
-time=10.366992s;;;0.000000;40.000000 size=461B;;;0;"
-202564249,203776023,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-15T19:13:46.305108Z,2186,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.712 second response time
-
-time=10.712185s;;;0.000000;40.000000 size=506B;;;0;"
-202564857,203776023,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-15T19:32:12.592820Z,2186,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.334 second response time
-
-time=10.333639s;;;0.000000;40.000000 size=506B;;;0;"
-202565226,203777490,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-15T19:42:04.825890Z,842,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.197 second response time
-
-time=10.196698s;;;0.000000;40.000000 size=506B;;;0;"
-202565321,203777490,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-15T19:44:44.373298Z,842,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.380 second response time
-
-time=10.380414s;;;0.000000;40.000000 size=506B;;;0;"
-202565452,203777490,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-15T19:48:32.773743Z,842,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.422 second response time
-
-time=10.421533s;;;0.000000;40.000000 size=506B;;;0;"
-202567600,203779784,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-15T20:37:19.051857Z,771,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.709 second response time
-
-time=10.709067s;;;0.000000;40.000000 size=506B;;;0;"
-202567605,203779784,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-15T20:37:27.271962Z,771,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.146 second response time
-
-time=10.146203s;;;0.000000;40.000000 size=506B;;;0;"
-202567690,203779784,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-15T20:40:05.757924Z,771,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 11.013 second response time
-
-time=11.012850s;;;0.000000;40.000000 size=506B;;;0;"
-202567800,203779784,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-15T20:43:05.592055Z,771,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.422 second response time
-
-time=10.421934s;;;0.000000;40.000000 size=506B;;;0;"
-202571491,203784430,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-15T22:32:50.854874Z,994,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.837 second response time
-
-time=10.836641s;;;0.000000;40.000000 size=506B;;;0;"
-202572248,203784430,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-15T22:51:32.235509Z,994,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.196 second response time
-
-time=10.195701s;;;0.000000;40.000000 size=506B;;;0;"
-202593810,203806025,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-16T04:28:41.951601Z,313,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 20.754 second response time
-
-time=20.753540s;;;0.000000;40.000000 size=506B;;;0;"
-202593825,203806025,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T04:29:41.457255Z,313,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.834 second response time
-
-time=10.834422s;;;0.000000;40.000000 size=506B;;;0;"
-202602934,203815716,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-16T07:20:17.233762Z,520,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.331 second response time
-
-time=10.331047s;;;0.000000;40.000000 size=506B;;;0;"
-202603495,203815716,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T07:24:55.193637Z,520,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.975 second response time
-
-time=10.974807s;;;0.000000;40.000000 size=506B;;;0;"
-202603801,203815716,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-16T07:28:20.488352Z,520,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.230 second response time
-
-time=10.230316s;;;0.000000;40.000000 size=506B;;;0;"
-202612360,203824721,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-16T08:30:06.388184Z,611,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.175 second response time
-
-time=10.174921s;;;0.000000;40.000000 size=461B;;;0;"
-202612495,203824721,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-16T08:32:45.931453Z,611,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.418 second response time
-
-time=10.418147s;;;0.000000;40.000000 size=461B;;;0;"
-202614397,203827082,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-16T09:25:00.353748Z,313,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.185 second response time
-
-time=10.185118s;;;0.000000;40.000000 size=506B;;;0;"
-202614458,203826963,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-16T09:27:03.229252Z,316,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.264 second response time
-
-time=11.264173s;;;0.000000;40.000000 size=461B;;;0;"
-202614736,203826963,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T09:34:51.215371Z,316,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.423 second response time
-
-time=11.422705s;;;0.000000;40.000000 size=461B;;;0;"
-202614855,203827082,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T09:37:50.771409Z,313,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.885 second response time
-
-time=10.884949s;;;0.000000;40.000000 size=506B;;;0;"
-202615161,203827439,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-16T09:51:23.908680Z,311,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.201 second response time
-
-time=10.200653s;;;0.000000;40.000000 size=461B;;;0;"
-202615212,203827439,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-16T09:54:29.916444Z,311,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.347 second response time
-
-time=10.347012s;;;0.000000;40.000000 size=461B;;;0;"
-202615734,203827981,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-29,46.21.152.34,2025-03-16T10:04:52.618301Z,312,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.222 second response time
-
-time=10.221510s;;;0.000000;40.000000 size=506B;;;0;"
-202615754,203827981,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T10:05:14.887480Z,312,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.993 second response time
-
-time=10.992918s;;;0.000000;40.000000 size=506B;;;0;"
-202616153,203828390,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-16T10:16:57.901076Z,1354,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.849 second response time
-
-time=10.849073s;;;0.000000;40.000000 size=461B;;;0;"
-202616161,203828390,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T10:17:25.639259Z,1354,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.996 second response time
-
-time=10.996452s;;;0.000000;40.000000 size=461B;;;0;"
-202616289,203828390,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-16T10:20:51.834426Z,1354,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.228 second response time
-
-time=10.228491s;;;0.000000;40.000000 size=461B;;;0;"
-202618410,203830768,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-16T11:15:16.485398Z,547,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.406 second response time
-
-time=10.406346s;;;0.000000;40.000000 size=461B;;;0;"
-202618539,203830768,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-16T11:17:17.874541Z,547,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.248 second response time
-
-time=11.248186s;;;0.000000;40.000000 size=461B;;;0;"
-202618705,203830768,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-16T11:21:10.623184Z,547,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.676 second response time
-
-time=10.675854s;;;0.000000;40.000000 size=461B;;;0;"
-202621044,203833308,United Kingdom-London,GB-London(Volta)-15,5.180.211.97,2025-03-16T12:25:45.602374Z,615,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.275 second response time
-
-time=11.274687s;;;0.000000;40.000000 size=461B;;;0;"
-202621075,203833308,US-TX-Dallas,US-Dallas(Equinix)-19,2.56.188.133,2025-03-16T12:27:00.820196Z,615,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.397 second response time
-
-time=10.396653s;;;0.000000;40.000000 size=461B;;;0;"
-202621081,203833308,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-16T12:27:24.175866Z,615,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.325 second response time
-
-time=10.324740s;;;0.000000;40.000000 size=461B;;;0;"
-202623706,203836039,US-CA-Los Angeles,US-Los Angeles(DigitalRealty)-33,66.165.228.130,2025-03-16T13:47:36.645332Z,545,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.394 second response time
-
-time=10.394175s;;;0.000000;40.000000 size=461B;;;0;"
-202623796,203836039,US-NY-New York,US-New York(DigitalRealty)-24,69.67.151.188,2025-03-16T13:52:31.370893Z,545,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.480 second response time
-
-time=10.479505s;;;0.000000;40.000000 size=461B;;;0;"
-202623867,203836039,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T13:56:22.656401Z,545,"HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.013 second response time
-
-time=11.013212s;;;0.000000;40.000000 size=461B;;;0;"
-202624998,203837343,US-NY-New York,US-New York(DigitalRealty)-23,198.178.224.98,2025-03-16T14:39:00.046242Z,311,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.449 second response time
-
-time=10.449245s;;;0.000000;40.000000 size=506B;;;0;"
-202625093,203837343,US-TX-Dallas,US-Dallas(Equinix)-20,2.56.188.139,2025-03-16T14:41:00.480989Z,311,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.325 second response time
-
-time=10.324760s;;;0.000000;40.000000 size=506B;;;0;"
-202630613,203842908,Austria-Vienna,AT-Vienna(Interxion)-6,146.70.146.182,2025-03-16T18:18:31.492328Z,480,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 11.037 second response time
-
-time=11.037474s;;;0.000000;40.000000 size=506B;;;0;"
-202630655,203842908,United Kingdom-London,GB-London(Volta)-17,5.180.210.177,2025-03-16T18:20:42.949446Z,480,"HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.906 second response time
-
-time=10.905994s;;;0.000000;40.000000 size=506B;;;0;"
+"id","outage_id","location","monitoring_server","ipv4","alert_time","duration","output"
+"202512542","203724677","US-TX-Dallas","US-Dallas(Equinix)-24","2.56.188.143","2025-03-15T01:49:47.578033Z","295","HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.220 second response time  time=0.219711s;;;0.000000;40.000000 size=120B;;;0;"
+"202512556","203724677","US-NY-New York","US-New York(DigitalRealty)-24","69.67.151.188","2025-03-15T01:50:08.831164Z","295","HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.074 second response time  time=0.073877s;;;0.000000;40.000000 size=120B;;;0;"
+"202514099","203726316","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-15T02:18:38.104013Z","474","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.357 second response time  time=11.356613s;;;0.000000;40.000000 size=461B;;;0;"
+"202514195","203726316","US-TX-Dallas","US-Dallas(Equinix)-19","2.56.188.133","2025-03-15T02:20:57.121924Z","474","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.408 second response time  time=10.407980s;;;0.000000;40.000000 size=461B;;;0;"
+"202517454","203729960","US-NY-New York","US-New York(DigitalRealty)-23","198.178.224.98","2025-03-15T02:45:57.754608Z","2228","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.417 second response time  time=10.417476s;;;0.000000;40.000000 size=506B;;;0;"
+"202517839","203729960","United Kingdom-London","GB-London(Volta)-17","5.180.210.177","2025-03-15T02:49:56.030594Z","2228","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 11.166 second response time  time=11.165857s;;;0.000000;40.000000 size=506B;;;0;"
+"202519028","203729960","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-15T03:01:52.328084Z","2228","HTTP CRITICAL - Invalid HTTP response received from host on port 80: cURL returned 56 - OpenSSL SSL_read: error:0A000126:SSL routines::unexpected eof while reading, errno 0"
+"202528004","203740143","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-15T04:29:05.153621Z","1885","HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.494 second response time  time=0.493517s;;;0.000000;40.000000 size=120B;;;0;"
+"202528023","203740143","US-TX-Dallas","US-Dallas(Equinix)-24","2.56.188.143","2025-03-15T04:29:11.695194Z","1885","HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.344 second response time  time=0.344144s;;;0.000000;40.000000 size=120B;;;0;"
+"202528096","203740143","US-NY-New York","US-New York(DigitalRealty)-24","69.67.151.188","2025-03-15T04:29:36.339295Z","1885","HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.099 second response time  time=0.098928s;;;0.000000;40.000000 size=120B;;;0;"
+"202528153","203740143","United Kingdom-London","GB-London(Volta)-15","5.180.211.97","2025-03-15T04:29:53.293118Z","1885","HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.366 second response time  time=0.365826s;;;0.000000;40.000000 size=120B;;;0;"
+"202528425","203740143","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-33","66.165.228.130","2025-03-15T04:31:07.687914Z","1885","HTTP CRITICAL: HTTP/2 500  - 120 bytes in 0.360 second response time  time=0.360488s;;;0.000000;40.000000 size=120B;;;0;"
+"202561199","203773369","US-NY-New York","US-New York(DigitalRealty)-24","69.67.151.188","2025-03-15T17:21:54.295305Z","315","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.627 second response time  time=10.627083s;;;0.000000;40.000000 size=461B;;;0;"
+"202561211","203773369","US-TX-Dallas","US-Dallas(Equinix)-19","2.56.188.133","2025-03-15T17:22:06.777216Z","315","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.346 second response time  time=10.346481s;;;0.000000;40.000000 size=461B;;;0;"
+"202562647","203774921","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-15T18:20:20.023778Z","365","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.177 second response time  time=11.177255s;;;0.000000;40.000000 size=461B;;;0;"
+"202562759","203774921","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-33","66.165.228.130","2025-03-15T18:23:44.045940Z","365","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.205 second response time  time=10.204748s;;;0.000000;40.000000 size=461B;;;0;"
+"202563079","203775689","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-15T18:36:29.255496Z","314","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.974 second response time  time=10.973621s;;;0.000000;40.000000 size=461B;;;0;"
+"202563520","203775689","US-TX-Dallas","US-Dallas(Equinix)-19","2.56.188.133","2025-03-15T18:54:53.110093Z","314","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.411 second response time  time=10.411057s;;;0.000000;40.000000 size=461B;;;0;"
+"202563749","203776023","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-15T19:02:06.356121Z","2186","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.163 second response time  time=10.163235s;;;0.000000;40.000000 size=506B;;;0;"
+"202563829","203776050","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-15T19:04:05.204653Z","1733","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.010 second response time  time=11.010045s;;;0.000000;40.000000 size=461B;;;0;"
+"202563854","203776023","US-NY-New York","US-New York(DigitalRealty)-23","198.178.224.98","2025-03-15T19:04:53.358062Z","2186","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.509 second response time  time=10.509040s;;;0.000000;40.000000 size=506B;;;0;"
+"202563881","203776050","US-NY-New York","US-New York(DigitalRealty)-24","69.67.151.188","2025-03-15T19:05:27.943583Z","1733","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.425 second response time  time=10.424614s;;;0.000000;40.000000 size=461B;;;0;"
+"202563903","203776050","United Kingdom-London","GB-London(Volta)-15","5.180.211.97","2025-03-15T19:05:47.547977Z","1733","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.383 second response time  time=11.383458s;;;0.000000;40.000000 size=461B;;;0;"
+"202563981","203776050","US-TX-Dallas","US-Dallas(Equinix)-19","2.56.188.133","2025-03-15T19:07:26.186450Z","1733","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.367 second response time  time=10.366992s;;;0.000000;40.000000 size=461B;;;0;"
+"202564249","203776023","United Kingdom-London","GB-London(Volta)-17","5.180.210.177","2025-03-15T19:13:46.305108Z","2186","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.712 second response time  time=10.712185s;;;0.000000;40.000000 size=506B;;;0;"
+"202564857","203776023","US-TX-Dallas","US-Dallas(Equinix)-20","2.56.188.139","2025-03-15T19:32:12.592820Z","2186","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.334 second response time  time=10.333639s;;;0.000000;40.000000 size=506B;;;0;"
+"202565226","203777490","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-15T19:42:04.825890Z","842","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.197 second response time  time=10.196698s;;;0.000000;40.000000 size=506B;;;0;"
+"202565321","203777490","US-TX-Dallas","US-Dallas(Equinix)-20","2.56.188.139","2025-03-15T19:44:44.373298Z","842","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.380 second response time  time=10.380414s;;;0.000000;40.000000 size=506B;;;0;"
+"202565452","203777490","US-NY-New York","US-New York(DigitalRealty)-23","198.178.224.98","2025-03-15T19:48:32.773743Z","842","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.422 second response time  time=10.421533s;;;0.000000;40.000000 size=506B;;;0;"
+"202567600","203779784","United Kingdom-London","GB-London(Volta)-17","5.180.210.177","2025-03-15T20:37:19.051857Z","771","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.709 second response time  time=10.709067s;;;0.000000;40.000000 size=506B;;;0;"
+"202567605","203779784","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-15T20:37:27.271962Z","771","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.146 second response time  time=10.146203s;;;0.000000;40.000000 size=506B;;;0;"
+"202567690","203779784","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-15T20:40:05.757924Z","771","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 11.013 second response time  time=11.012850s;;;0.000000;40.000000 size=506B;;;0;"
+"202567800","203779784","US-NY-New York","US-New York(DigitalRealty)-23","198.178.224.98","2025-03-15T20:43:05.592055Z","771","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.422 second response time  time=10.421934s;;;0.000000;40.000000 size=506B;;;0;"
+"202571491","203784430","United Kingdom-London","GB-London(Volta)-17","5.180.210.177","2025-03-15T22:32:50.854874Z","994","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.837 second response time  time=10.836641s;;;0.000000;40.000000 size=506B;;;0;"
+"202572248","203784430","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-15T22:51:32.235509Z","994","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.196 second response time  time=10.195701s;;;0.000000;40.000000 size=506B;;;0;"
+"202593810","203806025","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-16T04:28:41.951601Z","313","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 20.754 second response time  time=20.753540s;;;0.000000;40.000000 size=506B;;;0;"
+"202593825","203806025","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T04:29:41.457255Z","313","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.834 second response time  time=10.834422s;;;0.000000;40.000000 size=506B;;;0;"
+"202602934","203815716","US-TX-Dallas","US-Dallas(Equinix)-20","2.56.188.139","2025-03-16T07:20:17.233762Z","520","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.331 second response time  time=10.331047s;;;0.000000;40.000000 size=506B;;;0;"
+"202603495","203815716","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T07:24:55.193637Z","520","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.975 second response time  time=10.974807s;;;0.000000;40.000000 size=506B;;;0;"
+"202603801","203815716","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-16T07:28:20.488352Z","520","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.230 second response time  time=10.230316s;;;0.000000;40.000000 size=506B;;;0;"
+"202612360","203824721","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-33","66.165.228.130","2025-03-16T08:30:06.388184Z","611","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.175 second response time  time=10.174921s;;;0.000000;40.000000 size=461B;;;0;"
+"202612495","203824721","US-NY-New York","US-New York(DigitalRealty)-24","69.67.151.188","2025-03-16T08:32:45.931453Z","611","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.418 second response time  time=10.418147s;;;0.000000;40.000000 size=461B;;;0;"
+"202614397","203827082","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-16T09:25:00.353748Z","313","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.185 second response time  time=10.185118s;;;0.000000;40.000000 size=506B;;;0;"
+"202614458","203826963","United Kingdom-London","GB-London(Volta)-15","5.180.211.97","2025-03-16T09:27:03.229252Z","316","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.264 second response time  time=11.264173s;;;0.000000;40.000000 size=461B;;;0;"
+"202614736","203826963","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T09:34:51.215371Z","316","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.423 second response time  time=11.422705s;;;0.000000;40.000000 size=461B;;;0;"
+"202614855","203827082","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T09:37:50.771409Z","313","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.885 second response time  time=10.884949s;;;0.000000;40.000000 size=506B;;;0;"
+"202615161","203827439","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-33","66.165.228.130","2025-03-16T09:51:23.908680Z","311","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.201 second response time  time=10.200653s;;;0.000000;40.000000 size=461B;;;0;"
+"202615212","203827439","US-TX-Dallas","US-Dallas(Equinix)-19","2.56.188.133","2025-03-16T09:54:29.916444Z","311","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.347 second response time  time=10.347012s;;;0.000000;40.000000 size=461B;;;0;"
+"202615734","203827981","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-29","46.21.152.34","2025-03-16T10:04:52.618301Z","312","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.222 second response time  time=10.221510s;;;0.000000;40.000000 size=506B;;;0;"
+"202615754","203827981","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T10:05:14.887480Z","312","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.993 second response time  time=10.992918s;;;0.000000;40.000000 size=506B;;;0;"
+"202616153","203828390","United Kingdom-London","GB-London(Volta)-15","5.180.211.97","2025-03-16T10:16:57.901076Z","1354","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.849 second response time  time=10.849073s;;;0.000000;40.000000 size=461B;;;0;"
+"202616161","203828390","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T10:17:25.639259Z","1354","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.996 second response time  time=10.996452s;;;0.000000;40.000000 size=461B;;;0;"
+"202616289","203828390","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-33","66.165.228.130","2025-03-16T10:20:51.834426Z","1354","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.228 second response time  time=10.228491s;;;0.000000;40.000000 size=461B;;;0;"
+"202618410","203830768","US-TX-Dallas","US-Dallas(Equinix)-19","2.56.188.133","2025-03-16T11:15:16.485398Z","547","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.406 second response time  time=10.406346s;;;0.000000;40.000000 size=461B;;;0;"
+"202618539","203830768","United Kingdom-London","GB-London(Volta)-15","5.180.211.97","2025-03-16T11:17:17.874541Z","547","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.248 second response time  time=11.248186s;;;0.000000;40.000000 size=461B;;;0;"
+"202618705","203830768","US-NY-New York","US-New York(DigitalRealty)-24","69.67.151.188","2025-03-16T11:21:10.623184Z","547","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.676 second response time  time=10.675854s;;;0.000000;40.000000 size=461B;;;0;"
+"202621044","203833308","United Kingdom-London","GB-London(Volta)-15","5.180.211.97","2025-03-16T12:25:45.602374Z","615","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.275 second response time  time=11.274687s;;;0.000000;40.000000 size=461B;;;0;"
+"202621075","203833308","US-TX-Dallas","US-Dallas(Equinix)-19","2.56.188.133","2025-03-16T12:27:00.820196Z","615","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.397 second response time  time=10.396653s;;;0.000000;40.000000 size=461B;;;0;"
+"202621081","203833308","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-33","66.165.228.130","2025-03-16T12:27:24.175866Z","615","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.325 second response time  time=10.324740s;;;0.000000;40.000000 size=461B;;;0;"
+"202623706","203836039","US-CA-Los Angeles","US-Los Angeles(DigitalRealty)-33","66.165.228.130","2025-03-16T13:47:36.645332Z","545","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.394 second response time  time=10.394175s;;;0.000000;40.000000 size=461B;;;0;"
+"202623796","203836039","US-NY-New York","US-New York(DigitalRealty)-24","69.67.151.188","2025-03-16T13:52:31.370893Z","545","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 10.480 second response time  time=10.479505s;;;0.000000;40.000000 size=461B;;;0;"
+"202623867","203836039","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T13:56:22.656401Z","545","HTTP CRITICAL: HTTP/2 503  - 461 bytes in 11.013 second response time  time=11.013212s;;;0.000000;40.000000 size=461B;;;0;"
+"202624998","203837343","US-NY-New York","US-New York(DigitalRealty)-23","198.178.224.98","2025-03-16T14:39:00.046242Z","311","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.449 second response time  time=10.449245s;;;0.000000;40.000000 size=506B;;;0;"
+"202625093","203837343","US-TX-Dallas","US-Dallas(Equinix)-20","2.56.188.139","2025-03-16T14:41:00.480989Z","311","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.325 second response time  time=10.324760s;;;0.000000;40.000000 size=506B;;;0;"
+"202630613","203842908","Austria-Vienna","AT-Vienna(Interxion)-6","146.70.146.182","2025-03-16T18:18:31.492328Z","480","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 11.037 second response time  time=11.037474s;;;0.000000;40.000000 size=506B;;;0;"
+"202630655","203842908","United Kingdom-London","GB-London(Volta)-17","5.180.210.177","2025-03-16T18:20:42.949446Z","480","HTTP CRITICAL: HTTP/2 503  - 506 bytes in 10.906 second response time  time=10.905994s;;;0.000000;40.000000 size=506B;;;0;"
